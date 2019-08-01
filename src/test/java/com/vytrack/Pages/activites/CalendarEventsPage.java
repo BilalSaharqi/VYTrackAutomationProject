@@ -1,6 +1,5 @@
 package com.vytrack.Pages.activites;
 
-import com.sun.org.apache.bcel.internal.generic.Select;
 import com.vytrack.utilities.Driver;
 import com.vytrack.utilities.SeleniumUtils;
 import com.vytrack.utilities.VYTrackUtils;
@@ -9,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.LocalDate;
